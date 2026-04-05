@@ -1,4 +1,8 @@
-# My MLIR learning journy - Installation
+# My MLIR Learning Journey 🚀
+
+A repository dedicated to documenting my progress, experiments, and notes as I dive into the world of MLIR (Multi-Level Intermediate Representation) and LLVM.
+
+## 📖 Table of Contents
 
 <div align="center">
   <a href="https://commons.wikimedia.org/wiki/File:MLIR_Logo.svg">
