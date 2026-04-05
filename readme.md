@@ -9,3 +9,4 @@
 </div>
 
 - [Installation](mlir_1_installation.md)
+- [Hello world](mlir_2_mlir_hello_world.md)
