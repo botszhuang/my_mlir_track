@@ -1,13 +1,5 @@
 # My MLIR Learning Journy - Installation
 
-<div align="center">
-  <a href="https://commons.wikimedia.org/wiki/File:MLIR_Logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MLIR_Logo.svg/400px-MLIR_Logo.svg.png" width="400" alt="MLIR Logo">
-  </a>
-  <br>
-  <sub>LLVM. MLIR Logo. 25 May 2021. Wikimedia Commons. Accessed 2 Apr. 2026.</sub>
-</div>
-
 **Disclaimer** : This is a documentation of my learning process only. Following these steps does not guarantee identical results.
 
 In the beginning, LLVM was developed to investigate dynamic compilation techniques for both static and dynamic programming languages. However, now day LLVM severs as portable, high-level assembly language, called language-independent intermediate representation (IR) to optimize the computation [1].
