@@ -103,10 +103,6 @@ int main() {
     return 0 ;
 }
 ```
-```bash
-$ clang main.c -Lout -lsample_c -lsample_llvm -Wl,-rpath,. -o main.exe$./main.exe
-```
-
 Here, I execute the main program to interface with the LLVM module and retrieve the computational results.
 
 ```bash
