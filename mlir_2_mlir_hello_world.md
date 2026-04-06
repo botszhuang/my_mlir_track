@@ -91,6 +91,8 @@ $ clang -shared -fPIC sample_llvm.o -o libsample_llvm.so
 
 ## Linking into an Executable file
 
+### Solution 1 ### 
+Here, run the shared libaray with **C** language, 
 ```bash
 $ clang main.c -Lout -lsample_c -lsample_llvm -Wl,-rpath,. -o main.exe$./main.exe
 ```
@@ -103,7 +105,8 @@ $./main.exe
 sample_c: 30
 sample_llvm: 30
 ```
-I use Python to run shared library by **ctypes**,
+### Solution 2 ### 
+I use **Python** to run shared library by **ctypes**,
 ```python
 import ctypes
 
