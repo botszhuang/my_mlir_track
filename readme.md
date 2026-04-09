@@ -8,3 +8,4 @@ A repository dedicated to documenting my progress, experiments, and notes as I d
 - [Simple MLIR module by C++](mlir_3_modul_by_Cpp.md)
 - [Simple MLIR module with JIT](mlir_4_modul_Cpp_JIT.md)
 - [Structure Control Flow - if ](mlir_5_scf_if.md)
+- [Structure Control Flow - for ](mlir_6_scf_for.md)
